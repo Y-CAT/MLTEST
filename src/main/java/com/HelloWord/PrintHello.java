@@ -1,0 +1,1 @@
+package com.HelloWord;/** * Created by Administrator on 2018/12/13 0013. */public class PrintHello {    public static void main(String[] args){        System.out.println("----------------------");        System.out.println("      hello  world     ");        System.out.println("----------------------");    }}
